@@ -1,1 +1,1 @@
-# Flow-Launcher-theme
+# Flow-Launcher-Theme
